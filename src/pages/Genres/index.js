@@ -1,8 +1,9 @@
 import React from 'react'
+import { GenreList } from '../../components/GenreList'
 
 const index = () => {
   return (
-    <div>genres</div>
+    <GenreList></GenreList>
   )
 }
 
